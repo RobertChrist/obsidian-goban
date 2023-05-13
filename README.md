@@ -1,13 +1,15 @@
-# Obsidian Goban Plugin
+### Where is the normal README for this repository?
 
-This plugin adds the capability to visualize Go/Baduk diagrams written in the [Sensei's Library](https://senseis.xmp.net/?HowDiagramsWork) format.
+In 2021, I began creating dedicated /Documentation branches in the repositories I have forked in Github, in order to better document why I forked that repository and what work I had done or intended to do in it.
 
-This is still a very WIP plugin.
+In order to see the official readme, please switch to the main or master branch.
 
-## How to use it
+-----
 
-After you installed the plugin, just write the diagram position representation inside a code block with the `goban` language.
+### Code Contributions
 
-### Example
+My local branch feature/fixSvgSize was accepted and merged into the upstream repository.
 
-![Example](example.png)
+### Repository Purpose
+
+I personally use this repository as an Obsidian plugin, and find it useful when studying Go/Baduk/Weiqi.
